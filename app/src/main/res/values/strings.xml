@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lesson 4. Toasts</string>
+    <string name="text_view_activity_main">Разные Toasts</string>
+    <string name="button_usual_toast">usual toast short</string>
+    <string name="button_usual_toast_long">usual toast long</string>
+    <string name="button_center_toast">Center toast</string>
+    <string name="button_toast_with_picture">toast with picture</string>
+</resources>
